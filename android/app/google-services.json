@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080458873674",
+    "project_id": "audiobook-17d1d",
+    "storage_bucket": "audiobook-17d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080458873674:android:9cadb3f9847d461983cfb3",
+        "android_client_info": {
+          "package_name": "uz.gita.audio_book_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15kDNvVflX2hCXyAZw6BhV9eILRpVjsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
